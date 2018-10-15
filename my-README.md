@@ -6,7 +6,7 @@ Custom boilerplate with added features including Node.js server.
 
 A step by step how to get a development env running
 
-To get setup
+To get setup start from the root directory
 
 ```
 npm install
@@ -19,17 +19,25 @@ cd client
 npm install
 ```
 
+### Start Development Environment
+
+*Using concurrently to start both Webpack dev-server & express app*
+
+```
+npm start
+```
+
+## Built With
+
+* create-react-app 2.0.4
+* Bootstrap 4 & Reactstrap
+* Node.js
+* Express
+
 ## Deployment
 
 Follow react-README.md to learn how to deploy this on a live system
 
-## Built With
+## Author
 
-* create-react-app 2.0
-* Bootstrap
-* Node.js
-* Express
-
-## Authors
-
-* **Matt Stuhring** - [PurpleBooth](https://github.com/mattstuhring)
+* **Matt Stuhring** - [My Github](https://github.com/mattstuhring)
