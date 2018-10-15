@@ -1,6 +1,6 @@
 # Create React App 2.0 with zero build configurations
 
-Custom boilerplate with added features including Node.js server.
+Custom boilerplate with added features including Express app.
 
 ### Installing
 
@@ -21,7 +21,7 @@ npm install
 
 ### Start Development Environment
 
-*Using concurrently to start both Webpack dev-server & express app*
+*Using concurrently to start both Webpack dev-server & Express app*
 
 ```
 npm start
@@ -29,8 +29,9 @@ npm start
 
 ## Built With
 
-* create-react-app 2.0.4
+* create-react-app v2.0.4
 * Bootstrap 4 & Reactstrap
+* React-Router v3
 * Node.js
 * Express
 
